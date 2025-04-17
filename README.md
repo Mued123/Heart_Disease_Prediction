@@ -1,1 +1,1 @@
-# Heart_Disease_Prediction
+This project aims to predict the likelihood of heart disease in a patient based on medical attributes. It includes both a public version with standard machine learning models and a premium version that uses advanced ensemble learning techniques for higher accuracy.
