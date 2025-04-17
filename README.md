@@ -47,3 +47,22 @@ This project predicts the likelihood of heart disease in a patient based on clin
 
 ```python
 input_data = (49, 1, 2, 120, 188, 0, 1, 139, 0, 2, 1, 3, 3)
+
+
+
+
+## 🖥️ Run Locally
+
+1. Clone the repository
+2. Install dependencies
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib streamlit
+
+
+
+## 🖥️ Run Locally
+
+1. Clone the repository
+2. Install dependencies
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib streamlit
